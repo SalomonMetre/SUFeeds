@@ -87,7 +87,7 @@
 
 
 ## License  
-This project is developed for educational purposes only to illustrate fundamental OOP principles, GUI basics, and JDBC.
+This project is developed for educational purposes only to illustrate fundamental OOP principles, GUI basics, and JDBC. <br>
 Salomon Kulondwa Metre, 2024 
 
 ---
