@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/home/suley/NetBeansProjects/SUFeeds/src/com/kisiwani/sufeeds/MainPage.java</file>
+            <file>file:/home/suley/NetBeansProjects/SUFeeds/src/com/kisiwani/sufeeds/DbConnector.java</file>
+            <file>file:/home/suley/NetBeansProjects/SUFeeds/src/com/kisiwani/sufeeds/RegistrationPage.java</file>
+            <file>file:/home/suley/NetBeansProjects/SUFeeds/src/com/kisiwani/sufeeds/ViewTopicsPage.java</file>
+            <file>file:/home/suley/NetBeansProjects/SUFeeds/src/com/kisiwani/sufeeds/ClassDetails.java</file>
+            <file>file:/home/suley/NetBeansProjects/SUFeeds/src/com/kisiwani/sufeeds/AddTopicPage.java</file>
+            <file>file:/home/suley/NetBeansProjects/SUFeeds/src/com/kisiwani/sufeeds/PasswordHasher.java</file>
+            <file>file:/home/suley/NetBeansProjects/SUFeeds/src/com/kisiwani/sufeeds/DatabaseCRUD.java</file>
+            <file>file:/home/suley/NetBeansProjects/SUFeeds/src/com/kisiwani/sufeeds/LoginPage.java</file>
+            <file>file:/home/suley/NetBeansProjects/SUFeeds/src/com/kisiwani/sufeeds/SaveClassPage.java</file>
+            <file>file:/home/suley/NetBeansProjects/SUFeeds/src/com/kisiwani/sufeeds/HomePage.java</file>
+            <file>file:/home/suley/NetBeansProjects/SUFeeds/src/com/kisiwani/sufeeds/AddCommentPage.java</file>
+            <file>file:/home/suley/NetBeansProjects/SUFeeds/src/com/kisiwani/sufeeds/SUFeeds.java</file>
+            <file>file:/home/suley/NetBeansProjects/SUFeeds/src/com/kisiwani/sufeeds/TopicDetails.java</file>
+            <file>file:/home/suley/NetBeansProjects/SUFeeds/src/com/kisiwani/sufeeds/MessageDialog.java</file>
+            <file>file:/home/suley/NetBeansProjects/SUFeeds/src/com/kisiwani/sufeeds/ViewClassesPage.java</file>
+            <file>file:/home/suley/NetBeansProjects/SUFeeds/src/com/kisiwani/sufeeds/ViewCommentsPage.java</file>
+            <file>file:/home/suley/NetBeansProjects/SUFeeds/src/com/kisiwani/sufeeds/UserDetails.java</file>
+        </group>
+    </open-files>
+</project-private>
