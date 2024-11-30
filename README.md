@@ -1,11 +1,8 @@
----
-
 # SU Feeds  
 
 ## Overview  
 **SU Feeds** is a Java desktop application built using **Java Swing** and **JDBC**. It is designed to help students save and manage the classes they are attending, add topics learned weekly, and upload feedback, comments, jokes, or summaries about the topics for other students to view.   
 
----
 
 ## Features  
 ### Functional Requirements  
